@@ -21,7 +21,7 @@ scripts/build-local.sh
 
 | 提交 | 说明 | 上游 PR |
 | --- | --- | --- |
-| `32d5d7a` | 修复副屏上切换桌面后 pin 失效（浮层被移到新桌面、录屏仍在继续） | [#44](https://github.com/lihaoyun6/Topit/pull/44) |
+| `fb73d04` | 修复副屏上切换桌面后 pin 失效（浮层被移到新桌面、录屏仍在继续） | [#44](https://github.com/lihaoyun6/Topit/pull/44) |
 
 ### 副屏切换桌面后 pin 失效
 
